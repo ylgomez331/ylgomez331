@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**ylgomez331/ylgomez331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yeris Leonela Gomez Ortiz
 
-Here are some ideas to get you started:
+*en este repositorio encontratas tematicas de desarrollo web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![img.proyect](https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/styles/480/public/media/image/2019/03/lenguajes_programacion_odiados_amados_2019.jpg?itok=N85E5HT)
+
+*
+- 🔭 I’m currently working on area de las tic
+- 🌱 I’m currently learning  HTML
+
+
+
+
+
